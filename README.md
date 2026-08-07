@@ -14,7 +14,7 @@ Bot Telegram Fsub sederhana untuk Heroku. Wajib join channel dulu baru bisa akse
 <html>
   <div class="center-content">
     <a
-    href="https://heroku.com/deploy?template=https://github.com/ciosukasuka/ciofsub">
+    href="https://heroku.com/deploy?template=https://github.com/ciosukasuka/fsubcio">
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
     </a>
   </div>
