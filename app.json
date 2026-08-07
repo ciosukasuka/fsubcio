@@ -1,1 +1,0 @@
-{"name":"fsub-bot","description":"Bot Telegram FSUB","stack":"heroku-22","env":{"API_ID":{"value":""},"API_HASH":{"value":""},"BOT_TOKEN":{"value":""},"OWNER_ID":{"value":""},"LOG_CHANNEL":{"value":"0"},"MONGO_URL":{"value":""}},"formation":{"worker":{"quantity":1}}}
